@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/box.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/box1.xml" value="0.322" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/boxred.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/circale_card.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/circale_profile.xml" value="0.3295" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/ic_cart.xml" value="0.322" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/ic_splash_one_bg.xml" value="0.322" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/ic_splash_three.xml" value="0.322" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/ic_splash_three_bg.xml" value="0.322" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/ic_splash_two_bg.xml" value="0.322" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/orderbox.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/raound_address.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/raound_prescription.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/round_couponcode.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/round_shape1.xml" value="0.342" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_about.xml" value="0.25" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_address.xml" value="0.17553191489361702" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_cart.xml" value="0.15091919623770841" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_chaneg_password.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_contac.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_editprofile.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_forgot.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_home.xml" value="0.144797325532804" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_item_details.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_location.xml" value="0.25" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_login.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_order_details.xml" value="0.15091919623770841" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_otp.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_prescriptionorder.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_prescriptionorder_details.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_privacy_policy.xml" value="0.15091919623770841" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_profile.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_razorpay.xml" value="0.15091919623770841" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_strippayment.xml" value="0.144797325532804" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_upload_prescription.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/adapter_addresss_item.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_mycard.xml" value="0.33" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_noti.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_prize.xml" value="0.144797325532804" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_vallid_layout.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_home.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_sub_category.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/item_featur.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/popup_loading.xml" value="0.29628046173578454" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/product_item.xml" value="0.15091919623770841" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/spinner_layout.xml" value="0.15091919623770841" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/spinnercode_layout.xml" value="0.15091919623770841" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/menu/address_menu.xml" value="0.3609375" />
+        <entry key="..\:/Dr.Medico CustomerApp v1.2/app/src/main/res/menu/bottom_home_menu.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/box.xml" value="0.3345" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/box_category.xml" value="0.3245" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/ic_cart.xml" value="0.3245" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/ic_delete.xml" value="0.3245" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/orderboderbox.xml" value="0.3245" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/orderbox_white.xml" value="0.3245" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/drawable/raound_address.xml" value="0.3245" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_about.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_address.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_cart.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_chaneg_password.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_comple_order.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_contac.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_coupun.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_editprofile.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_forgot.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_home.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_image_prive.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_image_select.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_intro.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_item_details.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_location.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_login.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_notification.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_order.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_order_details.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_otp.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_payment_option.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_paypal.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_pres_cart.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_prescriptionorder.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_prescriptionorder_details.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_privacy_policy.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_profile.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_razorpay.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_search.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_setting.xml" value="0.321875" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_strippayment.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_tramandcondition.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/activity_upload_prescription.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/adapter_addresss_item.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/adapter_banner_item.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custom_tab.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_demo_layout.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_image.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_mycard.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_mycard_prefs.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_myitem.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_noti.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_orderitem.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_payment.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_payment_item.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_prize.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/custome_vallid_layout.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_brand.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_home.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_info1.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_info2.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_info3.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_product.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/fragment_sub_category.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/image_item.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/imageview_layout.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/info_window_layout.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/item_allfeatur.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/item_category.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/item_categoryviewall.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/item_coupon.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/item_featur.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/popup_loading.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/product_home_item.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/product_item.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/spinner_layout.xml" value="0.3609375" />
+        <entry key="..\:/Medicos App/Dr.Medico CustomerApp v1.2/app/src/main/res/layout/spinnercode_layout.xml" value="0.3609375" />
+        <entry key="..\:/medical/app/src/main/res/drawable/boxred.xml" value="0.3295" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_about.xml" value="0.2975630611372381" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_address.xml" value="0.2975630611372381" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_chaneg_password.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_coupun.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_home.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_intro.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_prescriptionorder.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_prescriptionorder_details.xml" value="0.144797325532804" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_razorpay.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_strippayment.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/activity_upload_prescription.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/custome_image.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/custome_myitem.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/custome_payment_item.xml" value="0.2975630611372381" />
+        <entry key="..\:/medical/app/src/main/res/layout/custome_prize.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/item_categoryviewall.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/item_featur.xml" value="0.29628046173578454" />
+        <entry key="..\:/medical/app/src/main/res/layout/item_user.xml" value="0.2975630611372381" />
+        <entry key="..\:/medical/app/src/main/res/layout/product_home_item.xml" value="0.29628046173578454" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
